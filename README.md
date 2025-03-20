@@ -1,4 +1,7 @@
 DollarCheck - Personal Finance Tracker
+
+
+
 DollarCheck is a lightweight yet powerful personal finance management tool built with Flask and SQLAlchemy. It allows users to track expenses, set budgets, and visualize spending patterns with interactive charts.
 
 Features
